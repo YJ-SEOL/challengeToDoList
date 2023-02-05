@@ -5,14 +5,14 @@
 
 
 
-## :gem: 개요 :gem:
+## 개요 
 
 -   vinilaJS를 활용한 TodoList 작업
--   1열로 생성되는 TodoList를 css > grid를 활용하여 2열로 생성
+-   TodoList 스크롤 적용
 - 위치정보 허용 시 현재위치의 날씨정보 확인 가능(openweathermap API 활용)
 
 
-## :gem: STACK :gem:
+## STACK 
 
 -   Flatform
 
@@ -24,6 +24,6 @@
 
 
 
-## :gem: REFERENCE :gem:
+## REFERENCE 
 
 -   <a href='https://nomadcoders.co/javascript-for-beginners/lobby'>노마드코더</a>
