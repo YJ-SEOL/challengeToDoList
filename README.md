@@ -1,7 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Seol's%20GitHub&fontSize=70)
 
 # TodoList
-#### [GitHub-Pages 보러가기](https://yj-seol.github.io/VanilaJS/) 🔗
+#### [GitHub-Pages 보러가기](https://yj-seol.github.io/challengeToDoList/) 🔗
+
 
 
 
